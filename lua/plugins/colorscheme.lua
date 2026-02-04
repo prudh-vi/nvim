@@ -11,6 +11,5 @@ return {
     end,
   },
   
-  -- Disable tokyonight
-  { "folke/tokyonight.nvim", enabled = false },
+
 }
